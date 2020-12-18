@@ -11,4 +11,3 @@
 
 - [mysql 优化](mysql-opt.md)
 - [mysql 安装和管理](mysql-manager.md)
-
